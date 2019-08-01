@@ -1,0 +1,17 @@
+.sideBar{
+  position: absolute;
+width: 234px;
+height: 522px;
+margin-top: 40px;
+border: 1px solid #555;
+background: #82FFF3;
+}
+.menubtn{
+  border: 1px;
+  background-color: #8652FF;
+  width: 200px;
+  height: 30px;
+  margin-top: 10px;
+  margin-left: 10px;
+  
+}

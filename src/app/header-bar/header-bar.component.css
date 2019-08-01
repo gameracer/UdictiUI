@@ -1,0 +1,10 @@
+.headerBar{
+  position: absolute;
+width: 100%;
+height: 74px;
+border-block-end-style:dashed;
+
+background: #1d0fe7f3;
+box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
